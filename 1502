@@ -1,2 +1,7 @@
 this is first github file on 05.02.2018
-adding new file in remote
+adding new file in remote 
+First, I created a new directory C:Ravinder Then, issuae a command "gitinitGitProject" and it will
+generate a sub directory named GitProject
+The GitProject contains all of our necessary treptositary files -a git repositary scalton. At this point, nothing in our project is tracked yet.
+Note that we could have issued the "gitinit" command within the directory , "GitProject" , then it would have created .git subdirectory.
+Now, we may want to create some files.
